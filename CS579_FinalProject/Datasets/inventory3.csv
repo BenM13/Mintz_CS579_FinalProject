@@ -1,0 +1,58 @@
+item_no,type,manufacturer,size,quantity
+101,Skis,1,110,100
+102,Skis,1,120,100
+103,Skis,1,130,150
+104,Skis,1,140,200
+105,Skis,1,150,200
+106,Skis,1,160,250
+107,Skis,1,170,250
+108,Skis,1,180,200
+109,Skis,1,190,150
+201,Helmet,2,S,400
+202,Helmet,2,M,400
+203,Helmet,2,L,400
+303,Ski Boots,3,3,100
+304,Ski Boots,3,4,100
+305,Ski Boots,3,5,150
+306,Ski Boots,3,6,150
+307,Ski Boots,3,7,200
+308,Ski Boots,3,8,200
+309,Ski Boots,3,9,250
+310,Ski Boots,3,10,250
+311,Ski Boots,3,11,250
+312,Ski Boots,3,12,200
+313,Ski Boots,3,13,150
+314,Ski Boots,3,14,100
+401,Goggles,4,S,400
+402,Goggles,4,M,400
+403,Goggles,4,L,400
+503,Snowboard Boots,5,3,75
+504,Snowboard Boots,5,4,100
+505,Snowboard Boots,5,5,100
+506,Snowboard Boots,5,6,150
+507,Snowboard Boots,5,7,150
+508,Snowboard Boots,5,8,150
+509,Snowboard Boots,5,9,200
+510,Snowboard Boots,5,10,200
+511,Snowboard Boots,5,11,200
+512,Snowboard Boots,5,12,150
+513,Snowboard Boots,5,13,100
+514,Snowboard Boots,5,14,100
+520,Snowboard,5,100,100
+521,Snowboard,5,110,100
+522,Snowboard,5,120,150
+523,Snowboard,5,130,200
+524,Snowboard,5,140,250
+525,Snowboard,5,150,250
+526,Snowboard,5,160,250
+634,Poles,6,34,100
+636,Poles,6,36,100
+638,Poles,6,38,100
+640,Poles,6,40,100
+642,Poles,6,42,100
+644,Poles,6,44,100
+646,Poles,6,46,100
+648,Poles,6,48,100
+650,Poles,6,50,100
+652,Poles,6,52,100
+654,Poles,6,54,100
